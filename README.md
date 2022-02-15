@@ -24,7 +24,6 @@ And of course Dillinger itself is open source with a [public repository][dill]
 grunt watch
 ```
 
-If you are facing any issue please reach out to me at dev297147@gmail.com or DM https://twitter.com/DevendraKush14
 
 
 
